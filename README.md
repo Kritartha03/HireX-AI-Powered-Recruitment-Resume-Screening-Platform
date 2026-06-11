@@ -23,4 +23,6 @@ HireX is an AI-powered hiring platform that helps recruiters screen resumes and 
 To simplify recruitment by automating resume screening and candidate-job matching.
 
 ## Author
-Kritartha Goswami
+Kritartha Dipan Goswami
+K Shyamsundar Patra
+Bilipsha Priyadarshini
